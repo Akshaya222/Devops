@@ -1,10 +1,12 @@
 this is program 2
-<<<<<<< HEAD
 this is modification 1 made by programmer B for commit 1.
 this is modification 2 made by programmer B for commit 2.
-=======
+
 this is the modification done by programmar one for commit one
 this is the modificaion done by programmar two for commit two
->>>>>>> e8ef4cf291ac171079d251e5e49e28f141c99426
+
 
 these are some new changes made to prg2 from branch 2 by programmer 2.
+
+these are some changes made for instruction 5 by programmar one in branch 2
+file name is already in lowercase so changing it to uppercase
