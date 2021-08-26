@@ -1,3 +1,8 @@
 this is program 2
+<<<<<<< HEAD
 this is modification 1 made by programmer B for commit 1.
 this is modification 2 made by programmer B for commit 2.
+=======
+this is the modification done by programmar one for commit one
+this is the modificaion done by programmar two for commit two
+>>>>>>> e8ef4cf291ac171079d251e5e49e28f141c99426
