@@ -1,0 +1,20 @@
+this is program 2
+<<<<<<< HEAD:akshaya-team24-devops-prg2.txt
+
+=======
+>>>>>>> Branch2:akshaya-team24-devops-PRG2.txt
+this is modification 1 made by programmer B for commit 1.
+this is modification 2 made by programmer B for commit 2.
+
+this is the modification done by programmar one for commit one
+this is the modificaion done by programmar two for commit two
+
+
+these are some new changes made to prg2 from branch 2 by programmer 2.
+
+<<<<<<< HEAD:akshaya-team24-devops-prg2.txt
+instruction 6, editing after reverting back
+=======
+these are some changes made for instruction 5 by programmar one in branch 2
+file name is already in lowercase so changing it to uppercase
+>>>>>>> Branch2:akshaya-team24-devops-PRG2.txt
