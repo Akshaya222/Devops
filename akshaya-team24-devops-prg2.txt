@@ -1,2 +1,3 @@
 this is program 2
 this is modification 1 made by programmer B for commit 1.
+this is modification 2 made by programmer B for commit 2.
