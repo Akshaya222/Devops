@@ -1,6 +1,6 @@
 this is program one
-<<<<<<< HEAD
+
 this is the modificaion done by programmar 1 from branch master
-=======
+
 this is the modificaion done by programmar 1 from branch master
->>>>>>> branch3
+
